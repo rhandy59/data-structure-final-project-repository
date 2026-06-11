@@ -1,1 +1,1 @@
-# data-structure-final-project-repository
+# rendy-data-structure-final-project
